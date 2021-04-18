@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This app was created based on https://reactjs.org/tutorial/tutorial.html and https://github.com/briancodex/react-sidebar-v1/ [video](https://youtu.be/CXa0f4-dWi4)
+
+![It is working](./images/capture.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -13,11 +17,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `yarn build`
 
